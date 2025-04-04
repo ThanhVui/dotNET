@@ -1,0 +1,14 @@
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\bin\Debug\net8.0\HelloWorld02.exe
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\bin\Debug\net8.0\HelloWorld02.deps.json
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\bin\Debug\net8.0\HelloWorld02.runtimeconfig.json
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\bin\Debug\net8.0\HelloWorld02.dll
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\bin\Debug\net8.0\HelloWorld02.pdb
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.AssemblyInfoInputs.cache
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.AssemblyInfo.cs
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.csproj.CoreCompileInputs.cache
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.dll
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\refint\HelloWorld02.dll
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.pdb
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\HelloWorld02.genruntimeconfig.cache
+D:\Semester5\PRN212\Code\HelloWorld02\HelloWorld02\obj\Debug\net8.0\ref\HelloWorld02.dll

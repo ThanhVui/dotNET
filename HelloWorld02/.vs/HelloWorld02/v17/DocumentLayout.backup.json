@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester5\\PRN212\\Code\\HelloWorld02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F06651BD-B7FD-483F-B1A2-8DDE09AE57E0}|HelloWorld02\\HelloWorld02.csproj|d:\\semester5\\prn212\\code\\helloworld02\\helloworld02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06651BD-B7FD-483F-B1A2-8DDE09AE57E0}|HelloWorld02\\HelloWorld02.csproj|solutionrelative:helloworld02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester5\\PRN212\\Code\\HelloWorld02\\HelloWorld02\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld02\\Program.cs",
+              "ToolTip": "D:\\Semester5\\PRN212\\Code\\HelloWorld02\\HelloWorld02\\Program.cs",
+              "RelativeToolTip": "HelloWorld02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:53:02.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
