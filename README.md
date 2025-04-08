@@ -43,7 +43,7 @@ Welcome to my .NET Website Project! This project is part of my learning journey 
 - DLL:
   ![image](https://github.com/user-attachments/assets/a5a10a9c-523d-4145-b661-9b474d632472)
   ![image](https://github.com/user-attachments/assets/efe0f3aa-613b-4466-bf09-aaf48f2a7fbc)
-- DotPEEK:
+- DotPeek:
   ![image](https://github.com/user-attachments/assets/e0216fd5-e99f-440a-99d5-e83bbca7b8ca)
 
 
