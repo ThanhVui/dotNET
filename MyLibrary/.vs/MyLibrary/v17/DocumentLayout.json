@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB279D52-FC10-4A30-A6A8-EC759121517F}|Poem\\Poem.csproj|d:\\semester5\\prn212\\code\\mylibrary\\poem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB279D52-FC10-4A30-A6A8-EC759121517F}|Poem\\Poem.csproj|solutionrelative:poem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB279D52-FC10-4A30-A6A8-EC759121517F}|Poem\\Poem.csproj|d:\\semester5\\prn212\\code\\mylibrary\\poem\\songcode\\thanhvui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB279D52-FC10-4A30-A6A8-EC759121517F}|Poem\\Poem.csproj|solutionrelative:poem\\songcode\\thanhvui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}|MainUI\\MainUI.csproj|d:\\semester5\\prn212\\code\\mylibrary\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\MainUI\\Program.cs",
+              "RelativeDocumentMoniker": "MainUI\\Program.cs",
+              "ToolTip": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\MainUI\\Program.cs",
+              "RelativeToolTip": "MainUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:19:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThanhVui.cs",
+              "DocumentMoniker": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\Poem\\SongCode\\ThanhVui.cs",
+              "RelativeDocumentMoniker": "Poem\\SongCode\\ThanhVui.cs",
+              "ToolTip": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\Poem\\SongCode\\ThanhVui.cs",
+              "RelativeToolTip": "Poem\\SongCode\\ThanhVui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:28:29.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\Poem\\Program.cs",
+              "RelativeDocumentMoniker": "Poem\\Program.cs",
+              "ToolTip": "D:\\Semester5\\PRN212\\Code\\MyLibrary\\Poem\\Program.cs",
+              "RelativeToolTip": "Poem\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:33:30.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

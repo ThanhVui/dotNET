@@ -1,0 +1,15 @@
+D:\Semester5\PRN212\Code\MyLibrary\Poem\bin\Debug\net8.0\Poem.exe
+D:\Semester5\PRN212\Code\MyLibrary\Poem\bin\Debug\net8.0\Poem.deps.json
+D:\Semester5\PRN212\Code\MyLibrary\Poem\bin\Debug\net8.0\Poem.runtimeconfig.json
+D:\Semester5\PRN212\Code\MyLibrary\Poem\bin\Debug\net8.0\Poem.dll
+D:\Semester5\PRN212\Code\MyLibrary\Poem\bin\Debug\net8.0\Poem.pdb
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.AssemblyInfoInputs.cache
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.AssemblyInfo.cs
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.csproj.CoreCompileInputs.cache
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.sourcelink.json
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.dll
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\refint\Poem.dll
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.pdb
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\Poem.genruntimeconfig.cache
+D:\Semester5\PRN212\Code\MyLibrary\Poem\obj\Debug\net8.0\ref\Poem.dll

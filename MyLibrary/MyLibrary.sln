@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poem", "Poem\Poem.csproj", "{DB279D52-FC10-4A30-A6A8-EC759121517F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainUI", "MainUI\MainUI.csproj", "{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB279D52-FC10-4A30-A6A8-EC759121517F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB279D52-FC10-4A30-A6A8-EC759121517F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB279D52-FC10-4A30-A6A8-EC759121517F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB279D52-FC10-4A30-A6A8-EC759121517F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFDE18E-0176-4EA0-ABCE-CEA5425E25A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3DAEE3-D877-40F5-AE3D-AFE43E185947}
+	EndGlobalSection
+EndGlobal
