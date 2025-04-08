@@ -1,28 +1,3 @@
-# dotNET
-
-# 🚀 .NET Website Project
-
-Welcome to my .NET Website Project! This project is part of my learning journey in .NET development to build a fully functional website. 
-
-## 📌 Features
-- 🏗️ Built with ASP.NET Core MVC
-- 🎨 Responsive UI with modern design
-- 🗄️ Database integration (SQL Server / MongoDB)
-- 🔐 User authentication & authorization
-- ⚡ RESTful API integration
-
-## 📂 Project Structure
-```
-📦 MyDotNetWebsite
-├── 📁 Controllers
-├── 📁 Models
-├── 📁 Views
-├── 📁 wwwroot
-├── 📄 appsettings.json
-├── 📄 Program.cs
-└── 📄 Startup.cs
-```
-
 # Learn DotNET:
 
 ## Day 1: Introduction: [Lesson 1](https://www.youtube.com/playlist?list=PLayYhLZuuO9tV9PV2yeNQXolPc7XXw_7o)
@@ -40,12 +15,3 @@ Welcome to my .NET Website Project! This project is part of my learning journey 
   ![image](https://github.com/user-attachments/assets/d21955fe-e010-4084-8e45-1273f40d6377)
 
 ## Day 5: Create Library Use Hanld-Made DLL: [Lesson 5](https://www.youtube.com/watch?v=Wx_RHhEYGFQ&list=PLayYhLZuuO9tV9PV2yeNQXolPc7XXw_7o&index=9&t=4s&ab_channel=gi%C3%A1o.l%C3%A0ng)
-- DLL:
-  ![image](https://github.com/user-attachments/assets/a5a10a9c-523d-4145-b661-9b474d632472)
-  ![image](https://github.com/user-attachments/assets/efe0f3aa-613b-4466-bf09-aaf48f2a7fbc)
-- DotPeek:
-  ![image](https://github.com/user-attachments/assets/e0216fd5-e99f-440a-99d5-e83bbca7b8ca)
-
-
-## Happy coding! 🎉
-© 2025 TangThanhVui
