@@ -17,3 +17,7 @@
 ## Day 5: Create Library Use Hanld-Made DLL: [Lesson 5](https://www.youtube.com/watch?v=Wx_RHhEYGFQ&list=PLayYhLZuuO9tV9PV2yeNQXolPc7XXw_7o&index=9&t=4s&ab_channel=gi%C3%A1o.l%C3%A0ng)
 - DotPeek: use this ide to decode file dll convert to code
 - DLL Library:
+  ![image](https://github.com/user-attachments/assets/ab610720-10ff-47e2-b410-946fc77b3c0d)
+
+## Day 6: Create Library Use Hanld-Made DLL: [Lesson 6](https://www.youtube.com/watch?v=iszYgh05RHI&list=PLayYhLZuuO9tV9PV2yeNQXolPc7XXw_7o&index=10&ab_channel=gi%C3%A1o.l%C3%A0ng)
+- 
